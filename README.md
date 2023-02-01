@@ -28,3 +28,4 @@ Tecnologias para Web Scrapping
   10. Tanto los titulos de la pelicula como de las peliculas relacionadas se envian a la vista para que se renderize y se muestre en la pantalla.
   
   
+<img width="1512" alt="Screen Shot 2023-02-01 at 8 38 56 PM" src="https://user-images.githubusercontent.com/93965072/216145950-39d852a4-7434-4948-8f8f-1bce025b2d04.png">
