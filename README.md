@@ -1,5 +1,7 @@
 # Captura-masiva-de-datos-en-IoT-Smartcities.
 
+Juan Carlos Moguel Solis
+
 Web Scraping es la manera de recolectar datos públicos de una manera automática y organizada.
 
 El proyecto utiliza Node js y npm para gestionar las dependencia así como express js y pug para las vistas.
